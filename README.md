@@ -3,7 +3,7 @@
 <p align="center">Building practical web applications and turning raw data into useful insights.</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/Aman_6124/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @Aman_6124" /></a>
+  <a href="https://www.instagram.com/_aman_6124/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @_aman_6124" /></a>
   <a href="mailto:p.amanworks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: p.amanworks@gmail.com" /></a>
   <a href="https://github.com/Aman6124?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
 </p>
